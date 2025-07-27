@@ -2,7 +2,7 @@
 
 <h2 align="left">
   Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Raashid Khan, a Web Developer :computer:
+  I'm Raashid Khan, aspiring Web Developer :computer:
 </h2>
 
 <h3>✨ About Me</h3>
