@@ -5,6 +5,20 @@
   I'm Raashid Khan, a Web Developer :computer:
 </h2>
 
+<h3>✨ About Me</h3>
+
+- 🌱 I'm a **career switcher** transitioning from Digital Marketing to **Web Development**.
+
+- 💻 I enjoy building clean, responsive websites and exploring new tech tools.
+
+- 🚀 I'm always eager to learn, code, and grow as a developer.
+
+- 🔍 Actively looking for opportunities to collaborate or contribute to real-world projects.
+
+- 💡 Passionate about turning ideas into interactive web experiences.
+
+- 😄 I'm a *chill person* with a touch of *humor*, because code is serious — but I don't have to be all the time!
+
 <p>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coder GIF" width="500">
 </p>
