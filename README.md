@@ -7,7 +7,6 @@
  </abc>
 </h2> 
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;
 
 ## Languages & Tools i know
 
@@ -22,3 +21,5 @@
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=mysql,jquery,angular,nodejs,php"/>    
 </p>
+
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;
