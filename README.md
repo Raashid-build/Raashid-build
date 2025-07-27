@@ -4,7 +4,7 @@
 </h2>
 
 <p>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
 </p>
 
 ### Languages & Tools I Know
@@ -20,6 +20,11 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs,php"/>
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 **i love code**&nbsp;&nbsp;![](cat-typing.gif)
