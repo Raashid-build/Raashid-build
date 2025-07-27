@@ -12,13 +12,13 @@
 ## Languages & Tools i know
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=photoshop,illustrator"/>    
+    <img src="https://skillicons.dev/icons?i=photoshop,illustrator,github,wordpress"/>    
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,mysql,jquery"/> 
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js"/> 
 </p>
 <p align="center">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50"/>
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,php,github,wordpress"/>    
+    <img src="https://skillicons.dev/icons?i=mysql,jquery,angular,nodejs,php"/>    
 </p>
