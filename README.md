@@ -7,7 +7,7 @@
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
 </p>
 
-### Languages & Tools I Know
+<h3>🛠️ Languages & Tools I Know</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,github,wordpress"/>  
